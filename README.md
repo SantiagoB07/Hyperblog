@@ -7,4 +7,6 @@ En este curso aprendí:
 - blablabla
 - Creado por mí
 
+- Incluye ejm en windows linux y mac
+- Disponible para todas las edades
 **Santiago**
