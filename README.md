@@ -6,5 +6,5 @@ En este curso aprendí:
 - Usar git
 - blablabla
 - Creado por mí
-
+- Incluye ejm en windows linux y mac
 **Santiago**
