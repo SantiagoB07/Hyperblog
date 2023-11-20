@@ -5,5 +5,6 @@ Un blog para el curso de Git y Github
 En este curso aprendí:
 - Usar git
 - blablabla
+- Creado por mí
 
 **Santiago**
